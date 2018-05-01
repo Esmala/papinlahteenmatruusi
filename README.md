@@ -13,5 +13,5 @@ You must use Git Bash.
 
 ## Build (on macOS/Linux)
 ```bash
-## Coming soon, nearly same as on Windows, but without `psd -W`!
+## Coming soon, nearly same as on Windows, but without `-W` in `pwd`!
 ```
